@@ -1,4 +1,4 @@
-﻿namespace EMS.Application
+﻿namespace EMS.Application.Dtos
 {
     public class Class1
     {

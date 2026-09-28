@@ -1,4 +1,4 @@
-﻿namespace EMS.Domain
+﻿namespace EMS.Domain.Entity
 {
     public class Class1
     {
