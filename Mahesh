@@ -1,0 +1,9 @@
+Developer 1:
+1. Employee Management
+   - Add, View, Edit, Delete/Deactivate
+   - Search, Filter, Pagination
+   - Form Validation
+
+2. Department Management
+   - Add, View, Edit, Delete/Deactivate
+   - Employee-Department Mapping

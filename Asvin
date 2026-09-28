@@ -1,0 +1,18 @@
+Developer 2:
+1. Authentication & Authorization
+   - Login, Logout
+   - JWT Authentication
+   - Role Management
+   - Role-based Authorization
+   - Auth Guard & HTTP Interceptor
+
+2. Dashboard
+   - Employee Count
+   - Department Count
+   - Active/Inactive Count
+   - Dashboard Statistics
+
+3. Common
+   - Error Handling
+   - API Error Handling
+   - Common Validation/UI
